@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "653040709487",
+    "firebase_url": "https://helloandroidclick.firebaseio.com",
+    "project_id": "helloandroidclick",
+    "storage_bucket": "helloandroidclick.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653040709487:android:35b3282ea5d4b023",
+        "android_client_info": {
+          "package_name": "HelloAndroid.HelloAndroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653040709487-b5uqene4277fqbdufmgm5rsnvjmrod7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCexmSUIIDaMtiU_mOfQ7HHwf7X8SCM93o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653040709487:android:860220aebdbd9b47",
+        "android_client_info": {
+          "package_name": "AndroidXamianClick.AndroidXamianClick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653040709487-b5uqene4277fqbdufmgm5rsnvjmrod7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCexmSUIIDaMtiU_mOfQ7HHwf7X8SCM93o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

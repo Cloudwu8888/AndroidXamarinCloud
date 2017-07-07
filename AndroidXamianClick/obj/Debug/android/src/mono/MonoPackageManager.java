@@ -105,8 +105,25 @@ class MonoPackageManager_Resources {
 		"Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll",
 		"Microsoft.Azure.Mobile.Crashes.dll",
 		"Microsoft.Azure.Mobile.dll",
+		"Microsoft.Azure.Mobile.Push.Android.Bindings.dll",
+		"Microsoft.Azure.Mobile.Push.dll",
+		"Xamarin.Android.Support.Annotations.dll",
+		"Xamarin.Android.Support.Compat.dll",
+		"Xamarin.Android.Support.Core.UI.dll",
+		"Xamarin.Android.Support.Core.Utils.dll",
+		"Xamarin.Android.Support.Fragment.dll",
+		"Xamarin.Android.Support.Media.Compat.dll",
+		"Xamarin.Android.Support.v4.dll",
+		"Xamarin.Firebase.Analytics.dll",
+		"Xamarin.Firebase.Analytics.Impl.dll",
+		"Xamarin.Firebase.Common.dll",
+		"Xamarin.Firebase.Iid.dll",
+		"Xamarin.Firebase.Messaging.dll",
+		"Xamarin.GooglePlayServices.Base.dll",
+		"Xamarin.GooglePlayServices.Basement.dll",
+		"Xamarin.GooglePlayServices.Tasks.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_25";
+	public static final String ApiPackageName = null;
 }

@@ -4,6 +4,7 @@ using Android.OS;
 using Microsoft.Azure.Mobile;
 using Microsoft.Azure.Mobile.Analytics;
 using Microsoft.Azure.Mobile.Crashes;
+using Microsoft.Azure.Mobile.Push;
 
 namespace AndroidXamianClick
 {
@@ -14,9 +15,34 @@ namespace AndroidXamianClick
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-            MobileCenter.Start("465bfc70-eb81-49c4-b7d2-f998d12e5be4",
-                   typeof(Analytics), typeof(Crashes));
+            // This should come before MobileCenter.Start() is called
+            // This should come before MobileCenter.Start() is called
+            Push.PushNotificationReceived += (sender, e) => {
 
+                // Add the notification message and title to the message
+                var summary = $"Push notification received:" +
+                                    $"\n\tNotification title: {e.Title}" +
+                                    $"\n\tMessage: {e.Message}";
+
+                // If there is custom data associated with the notification,
+                // print the entries
+                if (e.CustomData != null)
+                {
+                    summary += "\n\tCustom data:\n";
+                    foreach (var key in e.CustomData.Keys)
+                    {
+                        summary += $"\t\t{key} : {e.CustomData[key]}\n";
+                    }
+                }
+
+                // Send the notification summary to debug output
+                System.Diagnostics.Debug.WriteLine(summary);
+            };
+            Push.EnableFirebaseAnalytics();
+            MobileCenter.Start("465bfc70-eb81-49c4-b7d2-f998d12e5be4",
+                   typeof(Analytics), typeof(Crashes), typeof (Push));
+            Analytics.TrackEvent("Click me");
+            System.Guid? installId = MobileCenter.InstallId;
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
             SetContentView(Resource.Layout.Main);

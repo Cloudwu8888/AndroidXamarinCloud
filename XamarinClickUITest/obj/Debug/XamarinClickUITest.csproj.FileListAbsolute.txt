@@ -1,0 +1,10 @@
+D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\XamarinClickUITest.dll
+D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\XamarinClickUITest.pdb
+D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\nunit.framework.dll
+D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\Xamarin.UITest.dll
+D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\nunit.framework.xml
+D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\Xamarin.UITest.xml
+D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\obj\Debug\XamarinClickUITest.csprojResolveAssemblyReference.cache
+D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\obj\Debug\XamarinClickUITest.csproj.CoreCompileInputs.cache
+D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\obj\Debug\XamarinClickUITest.dll
+D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\obj\Debug\XamarinClickUITest.pdb
