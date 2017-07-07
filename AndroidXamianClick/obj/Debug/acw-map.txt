@@ -1,0 +1,40 @@
+AndroidXamianClick.MainActivity, AndroidXamianClick;md5d76599a8ab0fc27f92b574678ab15f76.MainActivity
+AndroidXamianClick.MainActivity, AndroidXamianClick, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d76599a8ab0fc27f92b574678ab15f76.MainActivity
+AndroidXamianClick.MainActivity;md5d76599a8ab0fc27f92b574678ab15f76.MainActivity
+androidxamianclick.MainActivity;md5d76599a8ab0fc27f92b574678ab15f76.MainActivity
+Com.Microsoft.Azure.Mobile.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.Azure.Mobile.Analytics.Android.Bindings;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Azure.Mobile.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.Azure.Mobile.Analytics.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Azure.Mobile.Analytics.Channel.IAnalyticsListenerImplementor;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
+mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelGroupListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelGroupListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelGroupListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
+mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
+mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Utils.NetworkStateHelper/IListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Utils.NetworkStateHelper+IListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Utils.NetworkStateHelper.IListenerImplementor;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
+mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Crashes.AndroidCrashes/IWrapperSdkListenerImplementor, Microsoft.Azure.Mobile.Crashes.Android.Bindings;mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor
+Com.Microsoft.Azure.Mobile.Crashes.AndroidCrashes+IWrapperSdkListenerImplementor, Microsoft.Azure.Mobile.Crashes.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor
+Com.Microsoft.Azure.Mobile.Crashes.AndroidCrashes.IWrapperSdkListenerImplementor;mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor
+mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor;mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor
+Com.Microsoft.Azure.Mobile.Crashes.ICrashesListenerImplementor, Microsoft.Azure.Mobile.Crashes.Android.Bindings;mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor
+Com.Microsoft.Azure.Mobile.Crashes.ICrashesListenerImplementor, Microsoft.Azure.Mobile.Crashes.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor
+Com.Microsoft.Azure.Mobile.Crashes.ICrashesListenerImplementor;mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor
+mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor;mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor
+Microsoft.Azure.Mobile.Crashes.PlatformCrashes/GetLastSessionCrashReportCallback, Microsoft.Azure.Mobile.Crashes;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_GetLastSessionCrashReportCallback
+Microsoft.Azure.Mobile.Crashes.PlatformCrashes+GetLastSessionCrashReportCallback, Microsoft.Azure.Mobile.Crashes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_GetLastSessionCrashReportCallback
+Microsoft.Azure.Mobile.Crashes.PlatformCrashes.GetLastSessionCrashReportCallback;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_GetLastSessionCrashReportCallback
+microsoft.azure.mobile.crashes.PlatformCrashes_GetLastSessionCrashReportCallback;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_GetLastSessionCrashReportCallback
+Microsoft.Azure.Mobile.Crashes.PlatformCrashes/CrashListener, Microsoft.Azure.Mobile.Crashes;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_CrashListener
+Microsoft.Azure.Mobile.Crashes.PlatformCrashes+CrashListener, Microsoft.Azure.Mobile.Crashes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_CrashListener
+Microsoft.Azure.Mobile.Crashes.PlatformCrashes.CrashListener;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_CrashListener
+microsoft.azure.mobile.crashes.PlatformCrashes_CrashListener;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_CrashListener
+Microsoft.Azure.Mobile.Crashes.AndroidCrashListener, Microsoft.Azure.Mobile.Crashes;md5bf7db09e0a40f5ef5da2cf34b1b37d54.AndroidCrashListener
+Microsoft.Azure.Mobile.Crashes.AndroidCrashListener, Microsoft.Azure.Mobile.Crashes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5bf7db09e0a40f5ef5da2cf34b1b37d54.AndroidCrashListener
+Microsoft.Azure.Mobile.Crashes.AndroidCrashListener;md5bf7db09e0a40f5ef5da2cf34b1b37d54.AndroidCrashListener
+microsoft.azure.mobile.crashes.AndroidCrashListener;md5bf7db09e0a40f5ef5da2cf34b1b37d54.AndroidCrashListener
