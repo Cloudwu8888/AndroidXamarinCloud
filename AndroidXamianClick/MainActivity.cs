@@ -71,9 +71,9 @@ namespace AndroidXamianClick
                 Toast.MakeText(this, $"You Clicked {count}", ToastLength.Short).Show();
                 if (count>6)
                 {
-                    //Crashes.SetEnabledAsync(true);
-                    //throw new System.Exception("error:click>5");
-                    Crashes.GenerateTestCrash();
+                    Crashes.SetEnabledAsync(true);
+                    throw new System.Exception("error:click>5");
+                   // Crashes.GenerateTestCrash();
 
                 }
 
