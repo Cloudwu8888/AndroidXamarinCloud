@@ -15,7 +15,7 @@ namespace AndroidXamianClick
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-            // This should come before MobileCenter.Start() is called
+       
             // This should come before MobileCenter.Start() is called
             Push.PushNotificationReceived += (sender, e) => {
 
@@ -39,10 +39,11 @@ namespace AndroidXamianClick
                 System.Diagnostics.Debug.WriteLine(summary);
             };
             Push.EnableFirebaseAnalytics();
-            MobileCenter.Start("465bfc70-eb81-49c4-b7d2-f998d12e5be4",
+            MobileCenter.Start("54838d9d-2f36-4449-8ab8-eef72fc8d88a",
                    typeof(Analytics), typeof(Crashes), typeof (Push));
             Analytics.TrackEvent("Click me");
-            System.Guid? installId = MobileCenter.InstallId;
+            var installId = MobileCenter.GetInstallIdAsync();
+            //var a = installId.Result;
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
             SetContentView(Resource.Layout.Main);
@@ -70,7 +71,7 @@ namespace AndroidXamianClick
                 Toast.MakeText(this, $"You Clicked {count}", ToastLength.Short).Show();
                 if (count>6)
                 {
-                    Crashes.Enabled = true;
+                    //Crashes.SetEnabledAsync(true);
                     //throw new System.Exception("error:click>5");
                     Crashes.GenerateTestCrash();
 

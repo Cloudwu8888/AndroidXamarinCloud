@@ -8,3 +8,17 @@ D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\obj\Debug\
 D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\obj\Debug\XamarinClickUITest.csproj.CoreCompileInputs.cache
 D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\obj\Debug\XamarinClickUITest.dll
 D:\Users\v-ruiywu\Source\Repos\AndroidXamarinCloud\XamarinClickUITest\obj\Debug\XamarinClickUITest.pdb
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\XamarinClickUITest.dll
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\XamarinClickUITest.pdb
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\Microsoft.Azure.Mobile.Analytics.dll
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\Microsoft.Azure.Mobile.dll
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\Microsoft.Azure.Mobile.Push.dll
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\nunit.framework.dll
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\Xamarin.UITest.dll
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\nunit.framework.xml
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\bin\Debug\Xamarin.UITest.xml
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\obj\Debug\XamarinClickUITest.csprojResolveAssemblyReference.cache
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\obj\Debug\XamarinClickUITest.csproj.CoreCompileInputs.cache
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\obj\Debug\XamarinClickUITest.dll
+C:\Users\v-ruiywu\Desktop\AndroidXamarinCloud\XamarinClickUITest\obj\Debug\XamarinClickUITest.pdb
